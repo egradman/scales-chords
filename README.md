@@ -1,6 +1,6 @@
 ## Scales and Chords
 
-This is a plugin to allow you to capture guitar and piano tabs in your Obsidian vault.
+This is a plugin to allow you to capture guitar and piano tabs in fenced blocks.  When previewed, the block inserts links to chord images from [ScalesChords](https://www.scales-chords.com).  
 
 To use this plugin, use a fenced code block like this:
 
